@@ -19,7 +19,7 @@ I'm a **Data Analysis Trainee** passionate about exploring and visualizing data.
 ## 🌱 Current Focus  
 
 - Creating **interactive dashboards** in **Tableau** and **Power BI**.  
-- Automating **data cleaning and transformation** using **Python & Excel**.  
+- Automating **data cleaning** using **Python**.  
 
 ## 📚 List of Projects  
 
